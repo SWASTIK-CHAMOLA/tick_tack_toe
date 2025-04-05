@@ -1,4 +1,4 @@
-# 🎮 Tic-Tac-Toe (2 Player) - Pygame
+# Tic-Tac-Toe (2 Player) - Pygame
 
 A simple two-player Tic-Tac-Toe game created using **Python** and **Pygame**. It features a clean grid layout, easy mouse-based input, and displays results at the end of each match.
 
