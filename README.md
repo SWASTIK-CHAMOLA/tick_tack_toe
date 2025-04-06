@@ -24,3 +24,10 @@ A simple two-player Tic-Tac-Toe game created using **Python** and **Pygame**. It
 
 3. **Run the game** 
 python tic_tac_toe.py
+
+## Gameplay
+# tick_tack_toe
+ A basic tick tack toe game made in python utilises pygame
+![Screenshot 2025-04-06 205105.png](Screenshot%202025-04-06%20205105.png)
+![Screenshot 2025-04-06 205134.png](Screenshot%202025-04-06%20205134.png)
+![Screenshot 2025-04-06 205143.png](Screenshot%202025-04-06%20205143.png)
